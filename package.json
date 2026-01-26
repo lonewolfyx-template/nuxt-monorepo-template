@@ -12,6 +12,8 @@
     },
     "keywords": [],
     "scripts": {
+        "build": "turbo run build",
+        "dev": "turbo run dev",
         "lint": "eslint",
         "lint:fix": "eslint --fix",
         "prepare": "simple-git-hooks"
