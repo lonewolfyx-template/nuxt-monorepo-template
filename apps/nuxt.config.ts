@@ -7,7 +7,6 @@ export default defineNuxtConfig({
         '@nuxt/eslint',
         '@nuxt/icon',
         '@vueuse/nuxt',
-        'shadcn-nuxt',
     ],
 
     devtools: {
@@ -15,7 +14,7 @@ export default defineNuxtConfig({
     },
 
     css: [
-        '~/assets/css/tailwind.css',
+        '~/assets/css/main.css',
     ],
     compatibilityDate: '2025-07-15',
 
@@ -32,10 +31,5 @@ export default defineNuxtConfig({
                 quotes: 'single', // or 'double'
             },
         },
-    },
-
-    shadcn: {
-        prefix: '',
-        componentDir: './app/components/ui',
     },
 })
