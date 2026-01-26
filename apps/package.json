@@ -12,9 +12,7 @@
         "generate": "nuxt generate",
         "preview": "nuxt preview",
         "postinstall": "nuxt prepare",
-        "typecheck": "nuxt typecheck",
-        "lint": "eslint ..",
-        "lint:fix": "eslint --fix"
+        "typecheck": "nuxt typecheck"
     },
     "dependencies": {
         "@tailwindcss/vite": "catalog:",
@@ -32,12 +30,8 @@
         "@nuxt/eslint": "catalog:",
         "@nuxt/icon": "catalog:",
         "@vueuse/nuxt": "catalog:",
-        "eslint": "catalog:",
-        "lint-staged": "catalog:",
         "nuxt": "catalog:",
-        "picocolors": "catalog:",
         "shadcn-nuxt": "catalog:",
-        "simple-git-hooks": "catalog:",
         "tw-animate-css": "catalog:",
         "typescript": "catalog:"
     }
