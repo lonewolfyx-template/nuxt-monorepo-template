@@ -1,0 +1,20 @@
+{
+    "$schema": "https://shadcn-vue.com/schema.json",
+    "style": "new-york",
+    "typescript": true,
+    "tailwind": {
+        "config": "",
+        "css": "../../apps/web/app/assets/main.css",
+        "baseColor": "neutral",
+        "cssVariables": true,
+        "prefix": ""
+    },
+    "aliases": {
+        "components": "@nuxt-monorepo-template/shadcn-vue/components",
+        "composables": "@nuxt-monorepo-template/shadcn-vue/composables",
+        "utils": "@nuxt-monorepo-template/shadcn-vue/lib/utils",
+        "ui": "@nuxt-monorepo-template/shadcn-vue/components/ui",
+        "lib": "@nuxt-monorepo-template/shadcn-vue/lib"
+    },
+    "iconLibrary": "lucide"
+}

@@ -12,4 +12,7 @@ export default antfu({
             'yaml/indent': ['error', 2],
         },
     },
+    rules: {
+        'antfu/top-level-function': 'off',
+    },
 }).append(nuxt)
