@@ -18,8 +18,17 @@
         "lint:fix": "eslint --fix",
         "prepare": "simple-git-hooks"
     },
+    "dependencies": {
+        "class-variance-authority": "catalog:",
+        "clsx": "catalog:",
+        "lucide-vue-next": "catalog:",
+        "tailwind-merge": "catalog:",
+        "tailwindcss": "catalog:",
+        "tw-animate-css": "catalog:"
+    },
     "devDependencies": {
         "@antfu/eslint-config": "catalog:",
+        "@tailwindcss/vite": "catalog:",
         "@types/node": "catalog:",
         "eslint": "catalog:",
         "lint-staged": "catalog:",

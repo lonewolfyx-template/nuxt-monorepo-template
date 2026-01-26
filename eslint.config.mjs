@@ -1,5 +1,4 @@
 import antfu from '@antfu/eslint-config'
-import nuxt from './apps/.nuxt/eslint.config.mjs'
 
 export default antfu({
     pnpm: true,
@@ -12,4 +11,4 @@ export default antfu({
             'yaml/indent': ['error', 2],
         },
     },
-}).append(nuxt)
+})
