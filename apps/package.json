@@ -1,5 +1,5 @@
 {
-    "name": "nuxt-monorepo-template",
+    "name": "@nuxt-monorepo-template/apps",
     "type": "module",
     "description": "Nuxt Monorepo Template",
     "homepage": "https://github.com/lonewolfyx/nuxt-monorepo-template",
