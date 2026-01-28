@@ -17,6 +17,7 @@
         "typecheck": "nuxt typecheck"
     },
     "dependencies": {
+        "@private/shadcn-vue": "workspace:*",
         "@tailwindcss/vite": "catalog:",
         "class-variance-authority": "catalog:",
         "clsx": "catalog:",
