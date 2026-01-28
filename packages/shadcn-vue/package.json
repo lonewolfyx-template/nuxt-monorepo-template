@@ -3,7 +3,7 @@
     "version": "0.0.0",
     "private": true,
     "packageManager": "pnpm@10.15.1",
-    "description": "",
+    "description": "A set of beautifully-designed, accessible components and a code distribution platform.",
     "license": "MIT",
     "keywords": [],
     "scripts": {},
