@@ -3,7 +3,7 @@
     "compilerOptions": {
         "baseUrl": ".",
         "paths": {
-            "@nuxt-monorepo-template/shadcn-vue/*": [
+            "@private/shadcn-vue/*": [
                 "./*"
             ]
         }

@@ -10,11 +10,11 @@
         "prefix": ""
     },
     "aliases": {
-        "components": "@nuxt-monorepo-template/shadcn-vue/components",
-        "composables": "@nuxt-monorepo-template/shadcn-vue/composables",
-        "utils": "@nuxt-monorepo-template/shadcn-vue/lib/utils",
-        "ui": "@nuxt-monorepo-template/shadcn-vue/components/ui",
-        "lib": "@nuxt-monorepo-template/shadcn-vue/lib"
+        "components": "@private/shadcn-vue/components",
+        "composables": "@private/shadcn-vue/composables",
+        "utils": "@private/shadcn-vue/lib/utils",
+        "ui": "@private/shadcn-vue/components/ui",
+        "lib": "@private/shadcn-vue/lib"
     },
     "iconLibrary": "lucide"
 }
