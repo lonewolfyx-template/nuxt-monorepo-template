@@ -5,6 +5,13 @@
     "packageManager": "pnpm@10.15.1",
     "description": "A set of beautifully-designed, accessible components and a code distribution platform.",
     "license": "MIT",
+    "homepage": "https://github.com/lonewolfyx/pkg-placeholder#readme",
+    "repository": {
+        "directory": "packages/shadcn-vue",
+        "type": "git",
+        "url": "git+https://github.com/lonewolfyx/pkg-placeholder.git"
+    },
+    "bugs": "https://github.com/lonewolfyx/pkg-placeholder/issues",
     "dependencies": {
         "class-variance-authority": "catalog:",
         "clsx": "catalog:",

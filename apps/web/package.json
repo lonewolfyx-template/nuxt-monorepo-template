@@ -1,5 +1,5 @@
 {
-    "name": "@nuxt-monorepo-template/web",
+    "name": "@pkg-placeholder/web",
     "type": "module",
     "packageManager": "pnpm@10.15.1",
     "description": "_description_",

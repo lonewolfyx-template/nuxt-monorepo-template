@@ -1,14 +1,14 @@
 {
-    "name": "nuxt-monorepo-template",
+    "name": "pkg-placeholder",
     "type": "module",
     "version": "0.0.0",
     "packageManager": "pnpm@10.15.1",
-    "description": "Nuxt Monorepo Template",
+    "description": "_description_",
     "author": "lonewolfyx <https://github.com/lonewolfyx>",
     "license": "MIT",
-    "homepage": "https://github.com/lonewolfyx/nuxt-monorepo-template",
+    "homepage": "https://github.com/lonewolfyx/pkg-placeholder",
     "bugs": {
-        "url": "https://github.com/lonewolfyx/nuxt-monorepo-template/issues"
+        "url": "https://github.com/lonewolfyx/pkg-placeholder/issues"
     },
     "keywords": [],
     "scripts": {
