@@ -17,7 +17,6 @@
         "typecheck": "nuxt typecheck"
     },
     "dependencies": {
-        "@nuxt-monorepo-template/shadcn-vue": "workspace:*",
         "@tailwindcss/vite": "catalog:",
         "class-variance-authority": "catalog:",
         "clsx": "catalog:",
