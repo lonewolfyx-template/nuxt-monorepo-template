@@ -2,7 +2,7 @@
 import type { PrimitiveProps } from 'reka-ui'
 import type { HTMLAttributes } from 'vue'
 import type { ButtonVariants } from '.'
-import { cn } from '@nuxt-monorepo-template/shadcn-vue/lib/utils'
+import { cn } from '@private/shadcn-vue/lib/utils'
 import { Primitive } from 'reka-ui'
 import { buttonVariants } from '.'
 
