@@ -5,8 +5,6 @@
     "packageManager": "pnpm@10.15.1",
     "description": "A set of beautifully-designed, accessible components and a code distribution platform.",
     "license": "MIT",
-    "keywords": [],
-    "scripts": {},
     "dependencies": {
         "class-variance-authority": "catalog:",
         "clsx": "catalog:",
